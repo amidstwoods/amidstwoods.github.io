@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h1>{{ page.title }}</h1>
-<p>{{ page.date | date_to_string }} - {{ page.translator }}</p>
+<h1>{{ page.title }} - {{ page.author }}</h1>
+<p>{{ page.date | date_to_string }} - Translator: {{ page.translator }}</p>
 
 {{ content }}

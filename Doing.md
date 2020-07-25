@@ -14,5 +14,5 @@ title: What I Do
 <p>confirm professional liability insurance before July 29
 <p>finish the business website
 <p>post hiring ad
-<p>post actual ad targeting customers
+<p>post actual ad targeting customers</p>
 

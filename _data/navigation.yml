@@ -2,7 +2,9 @@
   link: /
 - name: About
   link: /about.html
-- name: What I Do
+- name: Reading
   link: /Doing.html
 - name: Reading
   link: /reading.html
+- name: Art
+  link: /art.html

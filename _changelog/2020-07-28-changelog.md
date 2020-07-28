@@ -1,6 +1,6 @@
 ---
 #changelog
-layout: post
+layout: changelog
 title: 2020.07.28
 translator: amidstwoods
 ---
